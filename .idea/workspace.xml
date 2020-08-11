@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Java9_web_qianduan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01/News.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01/divTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01/tableTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01/动漫.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fvpfmrjHJZHtmeo7TCoD9NNweb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day01" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day01" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.News.html">
+    <configuration name="News.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java9_web_qianduan/Day01/News.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java9_web_qianduan/Day01/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.News.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="" />
+      <created>1597108527273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597108527273</updated>
+      <workItem from="1597108529634" duration="6460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="202" key="#Notifications" timestamp="1597108888313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="202" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1597108888313" />
+    <state x="471" y="165" key="#Web_Browsers" timestamp="1597109777967">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="165" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1597109777967" />
+    <state x="425" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597110749124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597110749124" />
+    <state x="413" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597109185558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597109185558" />
+    <state x="533" y="141" key="FileChooserDialogImpl" timestamp="1597109530418">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="533" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597109530418" />
+    <state x="184" y="16" key="SettingsEditor" timestamp="1597109533865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597109533865" />
+    <state x="444" y="245" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597109532104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="245" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1597109532104" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597115385513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597115385513" />
+  </component>
+</project>
