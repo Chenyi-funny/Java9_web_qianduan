@@ -1,0 +1,12 @@
+.align a{
+    margin-right: 10px;
+}
+
+/*.align a:nth-of-type(2){
+    text-decoration: none;
+    color: black;
+}*/
+.align
+{
+    text-align:center;
+}
