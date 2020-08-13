@@ -20,40 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day03/CSS的性质.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/CSS背景练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/CSS背景练习2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/a标签属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/七彩图片.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/三种元素模式的切换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/交集选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/元素模式练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/块级元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/行内元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/行内块级元素.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/行内样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/选择器1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/选择器2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/选择器Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiduPractice/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiduPractice/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/LineStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/bg3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/bg5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/bg6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/bg7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/内边距.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/内边距变大.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/外边距.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/嵌套关系合并塌陷.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/文字居中和盒子居中.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型之分别指定边框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型练习之导航栏案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/相邻块元素垂直外边距的合并.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day02/GoogleDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day02/谷歌.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day02/Java.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/CSS背景.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day02/LinkCss.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day02/LinkCss.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day02/footpageSet.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day02/设置页脚.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day02css/LinkHTML.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/LinkHTML.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day02css/SerchView.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/SerchView.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baiduPractice/SerchView.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiduPractice/SerchView.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaoshuoPractice/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoshuoPractice/demo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +116,7 @@
       <updated>1597108527273</updated>
       <workItem from="1597108529634" duration="21067000" />
       <workItem from="1597189813021" duration="27754000" />
-      <workItem from="1597278737353" duration="16234000" />
+      <workItem from="1597278737353" duration="22125000" />
     </task>
     <servers />
   </component>
