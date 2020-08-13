@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>后代、子代选择器</title>
+    <style>
+    .header h3{         /*后代选择器 用空格*/
+        color: pink;
+    }
+
+    .header>h3{          /*子代选择器 用>*/
+        color: greenyellow;
+        font-size: 25px;
+    }
+    </style>
+
+</head>
+<body>
+<h3>英雄联盟</h3>
+<div class="header">
+    <h3>放逐之刃</h3>
+    <div>折翼之舞</div>
+    <h3>6300</h3>
+</div>
+</body>
+</html>

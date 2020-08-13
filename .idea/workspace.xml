@@ -20,57 +20,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day01/InputTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/WuXuOrderTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/YouXuOrderTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/demo2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/homeworkChuqiaozhuan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/images/timg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01/textareaTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/GoogleDemo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/Java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/LinkCss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/NewBaidu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/StylePractice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/StyleTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/Tongpeifuxuanzeqi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/footpageSet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/lALPD4BhqysWe6xAQA_64_64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/leixuanzeqi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02/practice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02css/LinkHTML.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day02css/SerchView.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDMZPractice/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDMZPractice/images/hong.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDMZPractice/images/san.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDMZPractice/images/shui.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDMZPractice/images/xi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDMZPractice/文字.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiduPractice/SerchView.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiduPractice/baidu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiduPractice/baidu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiduPractice/images/button.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiduPractice/images/logo_baidu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baiduPractice/images/yz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuqiaozhuanPractice/demo(1).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuqiaozhuanPractice/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuqiaozhuanPractice/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuqiaozhuanPractice/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuqiaozhuanPractice/images/timg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chuqiaozhuanPractice/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaoshuoPractice/baike.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaoshuoPractice/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaoshuoPractice/images/down.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaoshuoPractice/images/guichuideng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xiaoshuoPractice/images/up.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/CSS的性质.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/CSS背景练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/CSS背景练习2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/a标签属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/七彩图片.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/三种元素模式的切换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/交集选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/元素模式练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/块级元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/行内元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/行内块级元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/行内样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/选择器1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/选择器2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day03/选择器Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baiduPractice/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baiduPractice/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/LineStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/bg7.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01/divTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day01/divTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01/tableTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day01/tableTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02/GoogleDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day02/谷歌.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02/Java.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/CSS背景.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02/LinkCss.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day02/LinkCss.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02/footpageSet.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day02/设置页脚.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02css/LinkHTML.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/LinkHTML.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02css/SerchView.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/SerchView.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baiduPractice/SerchView.html" beforeDir="false" afterPath="$PROJECT_DIR$/baiduPractice/SerchView.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +63,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="TypeScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -104,20 +88,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/baiduPractice/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/图片" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day02" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day01" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice" />
       <recent name="D:\elme\web_q\Java9_web_qianduan" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day03" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day02" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day01" />
     </key>
   </component>
@@ -152,7 +138,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597108527273</updated>
       <workItem from="1597108529634" duration="21067000" />
-      <workItem from="1597189813021" duration="27411000" />
+      <workItem from="1597189813021" duration="27754000" />
+      <workItem from="1597278737353" duration="16234000" />
     </task>
     <servers />
   </component>
@@ -207,9 +194,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597214412968" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597216278506">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597282099923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597216278506" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597282099923" />
   </component>
 </project>
