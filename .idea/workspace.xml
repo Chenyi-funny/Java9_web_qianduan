@@ -20,17 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/内边距.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/内边距变大.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/外边距.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/嵌套关系合并塌陷.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/文字居中和盒子居中.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型之分别指定边框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型练习之导航栏案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03/css盒子模型/相邻块元素垂直外边距的合并.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/images/happy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/images/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/images/sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/搜索趣图4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/新闻列表Day03练习/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/新闻列表Day03练习/images/tb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/新闻列表Day03练习/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xiaoshuoPractice/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/xiaoshuoPractice/demo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,26 +63,30 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/图片" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\搜索趣图Day03练习" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice" />
       <recent name="D:\elme\web_q\Java9_web_qianduan" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day03" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day02" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day01" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.WuXuOrderTest.html">
+  <component name="RunManager" selected="JavaScript Debug.搜索趣图4.html">
+    <configuration name="搜索趣图4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java9_web_qianduan/搜索趣图Day03练习/搜索趣图4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="News.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java9_web_qianduan/Day01/News.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -99,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.搜索趣图4.html" />
         <item itemvalue="JavaScript Debug.WuXuOrderTest.html" />
         <item itemvalue="JavaScript Debug.YouXuOrderTest.html" />
         <item itemvalue="JavaScript Debug.News.html" />
@@ -116,7 +119,8 @@
       <updated>1597108527273</updated>
       <workItem from="1597108529634" duration="21067000" />
       <workItem from="1597189813021" duration="27754000" />
-      <workItem from="1597278737353" duration="22125000" />
+      <workItem from="1597278737353" duration="22941000" />
+      <workItem from="1597309272403" duration="2645000" />
     </task>
     <servers />
   </component>
