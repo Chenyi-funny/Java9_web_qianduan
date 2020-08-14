@@ -20,15 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/images/happy.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/images/square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/images/sun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/搜索趣图4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/搜索趣图Day03练习/练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新闻列表Day03练习/images/bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新闻列表Day03练习/images/tb.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新闻列表Day03练习/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/Overflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/公司门户.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/小米浮动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/标准流.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/浮动会影响盒子的布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/浮动元素与兄弟盒子的关系.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/浮动元素与父盒子的关系.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/浮动布局.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/浮动文字环绕.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/浮动的原因.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/清除浮动之Overflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/清除浮动之额外标签法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/button1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/button2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/nav_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/亚索.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/小米.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/手机1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day03/css盒子模型/文字居中和盒子居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/css盒子模型/文字居中和盒子居中.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,27 +76,27 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/图片" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day04" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day03" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\搜索趣图Day03练习" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice" />
       <recent name="D:\elme\web_q\Java9_web_qianduan" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day01" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\elme\web_q\Java9_web_qianduan" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day03" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day02" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.搜索趣图4.html">
+  <component name="RunManager" selected="JavaScript Debug.浮动元素与父盒子的关系.html">
     <configuration name="搜索趣图4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java9_web_qianduan/搜索趣图Day03练习/搜索趣图4.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -96,16 +109,16 @@
     <configuration name="YouXuOrderTest.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java9_web_qianduan/Day01/YouXuOrderTest.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java9_web_qianduan/Day01/index.html" useBuiltInWebServerPort="true">
+    <configuration name="浮动元素与父盒子的关系.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Java9_web_qianduan/Day04/浮动元素与父盒子的关系.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.浮动元素与父盒子的关系.html" />
         <item itemvalue="JavaScript Debug.搜索趣图4.html" />
         <item itemvalue="JavaScript Debug.WuXuOrderTest.html" />
         <item itemvalue="JavaScript Debug.YouXuOrderTest.html" />
         <item itemvalue="JavaScript Debug.News.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +134,8 @@
       <workItem from="1597189813021" duration="27754000" />
       <workItem from="1597278737353" duration="22941000" />
       <workItem from="1597309272403" duration="2645000" />
+      <workItem from="1597363370837" duration="1530000" />
+      <workItem from="1597369828891" duration="14320000" />
     </task>
     <servers />
   </component>
@@ -159,25 +174,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597109185558" />
-    <state x="533" y="141" key="FileChooserDialogImpl" timestamp="1597109530418">
+    <state x="533" y="141" key="FileChooserDialogImpl" timestamp="1597370889908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="533" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597109530418" />
-    <state x="184" y="16" key="SettingsEditor" timestamp="1597109533865">
+    <state x="533" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597370889908" />
+    <state x="184" y="16" key="SettingsEditor" timestamp="1597370897963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597109533865" />
-    <state x="444" y="245" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597109532104">
+    <state x="184" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597370897963" />
+    <state x="444" y="245" width="628" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597370897218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="444" y="245" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1597109532104" />
+    <state x="444" y="245" width="628" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1597370897218" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1597214412968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597214412968" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597282099923">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597386131332">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597282099923" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597386131332" />
   </component>
 </project>

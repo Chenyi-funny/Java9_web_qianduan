@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        /*加一个  <div class="clear"></div>标签.clear{ clear: both; }即可清除浮动*/
+        .one{
+            width: 300px;
+            margin-top: 20px;
+            background-color: deepskyblue;
+        }
+        .one-da{
+            float: left;
+            width: 100px;
+            height: 100px;
+            background-color: yellowgreen;
+
+        }
+        .one-xiao{
+            float: left;
+            width: 130px;
+            height: 130px;
+            background-color:pink;
+        }
+        .two{
+            float: left;
+            width: 500px;
+            height: 130px;
+            background-color: black;
+        }
+        .clear{
+            clear: both;
+        }
+
+    </style>
+</head>
+<body>
+<div class="one">
+    <div class="one-da"></div>
+    <div class="one-xiao"></div>
+    <div class="clear"></div>
+</div>
+<div class="two"></div>
+</body>
+</html>
