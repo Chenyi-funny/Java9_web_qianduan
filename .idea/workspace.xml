@@ -20,28 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day04/Overflow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/公司门户.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/小米浮动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/标准流.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/浮动会影响盒子的布局.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/浮动元素与兄弟盒子的关系.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/浮动元素与父盒子的关系.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/浮动布局.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/浮动文字环绕.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/浮动的原因.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/清除浮动之Overflow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/清除浮动之额外标签法.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/button1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/button2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/nav_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/亚索.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/小米.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/手机1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/清除浮动之after.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day04/清除浮动之after2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/鲁能网页.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/鲁能.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/浮点Day04练习/鲁能.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/浮点Day04练习/鲁能网页.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day03/css盒子模型/文字居中和盒子居中.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/css盒子模型/文字居中和盒子居中.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day03/css盒子模型/盒子模型.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -83,10 +68,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\浮点Day04练习" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day04" />
       <recent name="D:\elme\web_q\Java9_web_qianduan" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day03" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
@@ -135,7 +120,7 @@
       <workItem from="1597278737353" duration="22941000" />
       <workItem from="1597309272403" duration="2645000" />
       <workItem from="1597363370837" duration="1530000" />
-      <workItem from="1597369828891" duration="14320000" />
+      <workItem from="1597369828891" duration="22609000" />
     </task>
     <servers />
   </component>
@@ -166,10 +151,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="471" y="165" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1597109777967" />
-    <state x="425" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597194673254">
+    <state x="425" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597393294721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="425" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597194673254" />
+    <state x="425" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1597393294721" />
     <state x="413" y="126" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597109185558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -190,9 +175,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597214412968" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597386131332">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597397082165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597386131332" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597397082165" />
   </component>
 </project>
