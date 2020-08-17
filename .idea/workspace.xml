@@ -20,12 +20,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day04/清除浮动之after.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day04/清除浮动之after2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/鲁能网页.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/鲁能.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/浮点Day04练习/鲁能.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/浮点Day04练习/鲁能网页.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/z-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/初识相对定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/固定定位.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/子绝父相演示.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/定位演示 哈根达斯.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/新浪新闻.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/相对定位的两个特性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/绝对定位以带有定位元素的父级元素位移.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/绝对定位改变display属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/绝对定位的盒子居中.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05/绝对定位的盒子绝不占有原来盒子的位置.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/If语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/JS样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/Swich语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/While.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/for循环.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/typeof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/九九乘法表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/交换两个变量的值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/数据类型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/模板.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/求数组中最大的值.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/流程语句.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/转化为String类型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/转化为数字型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day05JS/运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/getElementById获取元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/instanceof运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/object创建对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/事件基础.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/函数的使用--计算累加和.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/函数表达方式--匿名函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/利用构造函数创建对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/对象--用object创建.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/数组的新增.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/时间函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/根据标签名获取元素.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/比较大小--三目运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/遍历对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/My.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/adv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/br.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/top_tu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/右边固定广告.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/固定定位.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/子绝父相.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/左边固定广告.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/新浪新闻.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +80,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -61,23 +105,23 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/图片" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day05JS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\浮点Day04练习" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day04" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day03" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\搜索趣图Day03练习" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day05JS" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\浮点Day04练习" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day04" />
       <recent name="D:\elme\web_q\Java9_web_qianduan" />
     </key>
   </component>
@@ -121,6 +165,8 @@
       <workItem from="1597309272403" duration="2645000" />
       <workItem from="1597363370837" duration="1530000" />
       <workItem from="1597369828891" duration="22609000" />
+      <workItem from="1597451828856" duration="22394000" />
+      <workItem from="1597622071880" duration="10213000" />
     </task>
     <servers />
   </component>
@@ -175,9 +221,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597214412968" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597397082165">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597633898992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597397082165" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597633898992" />
   </component>
 </project>
