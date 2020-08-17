@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<div>
+
+</div>
+<p>我是文字
+<span>123</span>
+</p>
+<script>
+    var div=document.querySelector('div')
+    div.innerHTML = '<strong>能够识别标签内容</strong> '      //能够实现加粗标签
+    // div.innerText = '<strong>识别不了标签内容</strong> '   //不能实现文本加粗标签
+    var p = document.querySelector('p')
+    console.log(p.innerHTML)
+    console.log(p.innerText)
+
+</script>
+</body>
+</html>

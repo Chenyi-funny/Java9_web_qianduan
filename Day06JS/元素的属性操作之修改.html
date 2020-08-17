@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            height: 30px;
+        }
+    </style>
+</head>
+<body>
+<div><button id="yasuo">亚索</button>
+<button id="yongen">永恩</button></div>
+<img src="../图片/莲花亚索.jpg" alt=""width="300px" height="180px" title="灵魂莲华亚索">
+<!--此img处为默认值，即运行时默认显示的界面，可写可不写-->
+<script>
+    //获取元素
+    var yasuo=document.getElementById('yasuo')
+    var yongen=document.getElementById('yongen')
+    var img=document.querySelector('img')
+    //注册事件
+    yasuo.onclick=function (){
+        img.src='../图片/莲花亚索.jpg';
+        img.title = '亚索'
+    }
+    yongen.onclick = function () {
+        img.src = '../图片/樱花永恩.jpg';
+        img.title = '永恩'}
+</script>
+</body>
+</html>

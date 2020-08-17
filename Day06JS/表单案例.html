@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button>点我</button>
+<input type="text" value="搞快点点我">
+<script>
+    var button = document.querySelector('button')
+    var input = document.querySelector('input')
+    button.onclick = function (){
+        //点击按钮往input里放入值
+        input.value  = '你点你🐀🐂🐅🐇🐉🐍🐎🐏🐒🐓🐕🐖呢'
+        //如果想要某个表单被禁用，不能被点击
+        this.disabled = true;
+        //this 指向事件函数的调用者
+        /*this.disabled=false;*/
+    }
+</script>
+
+
+</body>
+</html>
