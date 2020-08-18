@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            background-color: yellowgreen;
+            margin-top:0;
+            transition: all 1s ease-in-out; /*将盒子移动过程变的更丝滑*/
+        }
+
+
+    </style>
+</head>
+<body>
+<div class="first">点盒子</div>
+<script>
+    var test= document.querySelector('div')
+    test.onclick = function (){
+        this.style.backgroundColor='blue'
+        this.style.marginTop='200px' ;
+        this.style.color='#fff';
+    }
+</script>
+</body>
+</html>
+<!--
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .first{
+            position: absolute;
+            top: 50px;
+            left: 50px;
+            width: 200px;
+            height: 200px;
+            text-align: center;
+            line-height: 200px;
+            background-color: blueviolet;
+            transition: all 1s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+<div class="first">变大</div>
+<script>
+    var fir = document.querySelector(".first");
+    var key = true;
+    fir.onclick = function(){
+        if(key){
+            this.style.top = "500px"
+            this.style.color = "#fff"
+            this.style.fontSize = "50px"
+            this.innerHTML = "变小"
+            key = false
+        }else{
+            this.style.top = "50px"
+            this.style.color = "#000"
+            this.style.fontSize = "20px"
+            key = true;
+            this.innerHTML = "变大"
+        }
+
+    }
+</script>
+</body>
+</html>-->

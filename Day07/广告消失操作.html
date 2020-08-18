@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        html,body{
+            width:100%;
+        }
+        div{
+            background: url("../图片/luzhou.jpg") no-repeat ;
+            width: 100%;
+            height: 100px;
+            background-size: cover;
+        }
+        .guanbi{
+            /*display: inline-block;*/
+            position: absolute;
+            right: 20px;
+            top:15px;
+        }
+        .hide{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <span class="guanbi"><img src="../图片/close.jpg" alt=""></span>
+</div>
+<script>
+    var div=document.querySelector('div')
+    var span=document.querySelector('span')
+    span.onclick=function (){
+        div.className = 'hide';
+    }
+
+</script>
+</body>
+</html>

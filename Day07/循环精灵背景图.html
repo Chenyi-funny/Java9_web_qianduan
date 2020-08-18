@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        li{
+            list-style-type: none;
+        }
+
+        .box{
+            width: 250px;
+            margin: 100px auto ;
+        }
+        .box li{
+            float: left;
+            width: 24px;
+            height: 24px;
+            background-color: greenyellow;
+            margin: 15px;
+            background:url(../图片/sprit.png)no-repeat;
+        }
+
+    </style>
+</head>
+<body>
+<div class="box">
+
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+</div>
+<script>
+    var list = document.querySelectorAll('li')
+    //获取网页中所有的li元素
+    for (var i = 0; i <list.length; i++) {
+        var y = i*44
+        console. log(y)
+        list[i].style.backgroundPosition = '0-'+y+'px'
+    }
+
+</script>
+</body>
+</html>

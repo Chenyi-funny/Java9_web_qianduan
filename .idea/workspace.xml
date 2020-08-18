@@ -20,26 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day06JS/H5新增.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06JS/H5新增案例1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06JS/JD.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06JS/innerText和innerHTML的区别.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06JS/元素的属性操作之修改.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06JS/元素的属性操作修改练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06JS/淘宝关闭二维码.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06JS/表单案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06JS/通过操作style属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/s.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/w.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/x.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/z.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/悠米.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/樱花永恩.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/淘宝.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/莲花亚索.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06JS/关灯.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/密码输入框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/广告消失操作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/循环精灵背景图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/新浪注册.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/点击盒子下移.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/点击盒子下移进阶版.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/进化版input输入框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/close.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/luzhou.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/sprit.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day06JS/JD.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day06JS/JD.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,21 +70,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/图片" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day06JS" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\搜索趣图Day03练习" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day05JS" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\浮点Day04练习" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day04" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\搜索趣图Day03练习" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice" />
       <recent name="D:\elme\web_q\Java9_web_qianduan" />
     </key>
   </component>
@@ -136,7 +129,8 @@
       <workItem from="1597363370837" duration="1530000" />
       <workItem from="1597369828891" duration="22609000" />
       <workItem from="1597451828856" duration="22394000" />
-      <workItem from="1597622071880" duration="23869000" />
+      <workItem from="1597622071880" duration="25407000" />
+      <workItem from="1597708131337" duration="9532000" />
     </task>
     <servers />
   </component>
@@ -179,10 +173,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="533" y="141" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597370889908" />
-    <state x="184" y="16" key="SettingsEditor" timestamp="1597370897963">
+    <state x="184" y="16" key="SettingsEditor" timestamp="1597661456763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597370897963" />
+    <state x="184" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597661456763" />
     <state x="444" y="245" width="628" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597370897218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -191,9 +185,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597214412968" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597653880393">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597712961557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597653880393" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597712961557" />
   </component>
 </project>
