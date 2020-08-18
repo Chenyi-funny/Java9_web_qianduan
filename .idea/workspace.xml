@@ -20,13 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day07/onmousover练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/排他思想.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/百度换肤.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/莲花.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/莲花锐雯.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/莲花阿狸.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/H5自定义属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/全选和反选.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/子节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/微博样式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/父节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/自定义属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/节点例.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/百度换肤.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day07/LOL换肤.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +126,7 @@
       <workItem from="1597369828891" duration="22609000" />
       <workItem from="1597451828856" duration="22394000" />
       <workItem from="1597622071880" duration="25407000" />
-      <workItem from="1597708131337" duration="16850000" />
+      <workItem from="1597708131337" duration="28277000" />
     </task>
     <servers />
   </component>
@@ -179,9 +181,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597214412968" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597712961557">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597754222028">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597712961557" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597754222028" />
   </component>
 </project>
