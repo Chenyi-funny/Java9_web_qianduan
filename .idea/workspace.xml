@@ -20,19 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day06JS/关灯.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/密码输入框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/广告消失操作.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/循环精灵背景图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/新浪注册.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/点击盒子下移.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/点击盒子下移进阶版.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/进化版input输入框.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/close.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/luzhou.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/sprit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/onmousover练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/排他思想.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07/百度换肤.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/莲花.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/莲花锐雯.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/莲花阿狸.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day06JS/JD.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day06JS/JD.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +124,7 @@
       <workItem from="1597369828891" duration="22609000" />
       <workItem from="1597451828856" duration="22394000" />
       <workItem from="1597622071880" duration="25407000" />
-      <workItem from="1597708131337" duration="9532000" />
+      <workItem from="1597708131337" duration="16850000" />
     </task>
     <servers />
   </component>
