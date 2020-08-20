@@ -20,10 +20,13 @@
 <script>
 
     var ul = document.querySelector('ul')
-    console.log(ul.childNodes)
-    console.log(ul.childNodes[0].nodeType)
-    console.log(ul.childNodes[0].nodeType)
-
+    console.log(ol.firstChild)
+    console.log(ol.lastChild)
+    console.log(ol.firstElementChild)
+    console.log(ol.lastElementChild)
+    // 既兼容 又方便 实际开发
+    console.log(ol.children[0])
+    console.log(ol.children[ol.children.length-1])
 
 
 

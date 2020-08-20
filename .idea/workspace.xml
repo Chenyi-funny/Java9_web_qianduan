@@ -20,15 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day07/H5自定义属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/全选和反选.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/子节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/微博样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/父节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/自定义属性.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07/节点例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/1.兄弟节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/2.创建节点添加节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/3.留言案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/4.创建节点练习1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/5.删除节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/6.删除节点练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/7.复制（克隆）节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08/8.动态生成表格.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/ali.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day07/百度换肤.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day07/LOL换肤.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day05/绝对定位以带有定位元素的父级元素位移.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day05/绝对定位以带有定位元素的父级元素位移.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07/子节点.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day07/子节点.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,19 +72,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day06JS" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\搜索趣图Day03练习" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day05JS" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\浮点Day04练习" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day04" />
       <recent name="D:\elme\web_q\Java9_web_qianduan" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day06JS" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\搜索趣图Day03练习" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.浮动元素与父盒子的关系.html">
@@ -126,7 +129,9 @@
       <workItem from="1597369828891" duration="22609000" />
       <workItem from="1597451828856" duration="22394000" />
       <workItem from="1597622071880" duration="25407000" />
-      <workItem from="1597708131337" duration="28277000" />
+      <workItem from="1597708131337" duration="28362000" />
+      <workItem from="1597796282365" duration="17275000" />
+      <workItem from="1597881315630" duration="825000" />
     </task>
     <servers />
   </component>
@@ -173,6 +178,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597661456763" />
+    <state x="134" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597805785051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="134" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1597805785051" />
     <state x="444" y="245" width="628" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597370897218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -181,9 +190,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597214412968" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597754222028">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597807380033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597754222028" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597807380033" />
   </component>
 </project>
