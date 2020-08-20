@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button>传统注册事件</button>
+<br>
+<button>方法监听注册事件</button>
+<script>
+   var btns= document.querySelectorAll('button')
+   //1.传统注册事件（后面会覆盖前面,只会显示后面的事件）
+   btns[0].onclick = function (){
+       alert('🐮🍺')
+   }
+   btns[0].onclick = function (){
+       alert('🙏')
+   }
+   // 2.方法监听注册事件（后面不会覆盖前面,）
+   // 不带onclick
+   btns[1].addEventListener('click', function () {
+       alert('🐮🍺')
+   })
+   btns[1].addEventListener('click', function () {
+       alert('🔞')
+   })
+</script>
+</body>
+</html>

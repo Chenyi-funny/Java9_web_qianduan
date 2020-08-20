@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            height: 3000px;
+        }
+    </style>
+</head>
+<body>
+<script>
+    document.addEventListener('click',function (e){
+        //1.鼠标在可视区的X和Y的坐标
+        console.log(e.clientX)
+        console.log(e.clientY)
+        console.log('----我是分界线----')
+
+        //2.page鼠标在页面文档的X 和 Y 的坐标
+        console.log(e.pageX)
+        console.log(e.pageY)
+        console.log('----我是分界线----')
+
+        //3.screen 类 ：鼠标在电脑屏幕的X 和 Y的坐标。
+
+        console.log(e.screenX)
+        console.log(e.screenY)
+        console.log('----我是分界线----')
+
+    })
+
+
+</script>
+</body>
+</html>

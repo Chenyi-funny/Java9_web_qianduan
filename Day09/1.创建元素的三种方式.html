@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>页面重绘</title>
+
+</head>
+<body>
+<button>移动光标至此</button>
+<p>abc</p>
+<div class="inner"></div>
+<div class="create"></div>
+<!--<script>
+    /*window.onload=function (){
+        document.write('<div>123</div>')
+    }*/
+    /*1.document.write创建元素如果页面文档流加载完毕再调用会导致页面重绘*/
+    var btn=document.querySelector('button')
+    btn.onmouseover=function (){
+        document.write()
+    }
+</script>-->
+<script>
+    var inner=document.querySelector('.inner')
+    //拼接字符串
+    // for (var i = 0; i <100 ; i++) {
+    //     inner.innerHTML+='<a href="#">百度</a>'
+    // }
+    //使用数组的方式
+    var arr=[];
+    for (var i = 0; i <100 ; i++) {
+        arr.push('<a href="#">百度</a>')//使用push方法添加数组元素
+    }
+    inner.innerHTML=arr.join('')//将数组连接起来
+    var create=document.querySelector('.create')
+    for (var i = 0; i <100 ; i++) {
+        var a = document.createElement('a')
+        a.innerHTML='百度'
+        a.href='#'
+        create.appendChild('a')
+    }
+
+</script>
+</body>
+</html>

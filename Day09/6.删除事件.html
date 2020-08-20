@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            background-color: yellowgreen;
+
+        }
+
+    </style>
+</head>
+<body>
+<div>1</div>
+<br>
+<div>2</div>
+<br>
+<div>3</div>
+
+<script>
+    //方法1
+    var divs=document.querySelectorAll('div')
+    divs[0].onclick=function (){
+        alert('👊一次后失效')
+        //传统删除事件的方式
+        this.onclick=null;//点击一次则无法使用
+    }
+    //方法2
+    divs[1].addEventListener('click',fn)//传函数名
+    function fn(){
+        alert('👊一次后失效')
+        this.removeEventListener('click',fn)
+     }
+
+</script>
+</body>
+</html>

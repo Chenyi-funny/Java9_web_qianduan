@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,18 +23,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day08/1.兄弟节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/2.创建节点添加节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/3.留言案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/4.创建节点练习1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/5.删除节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/6.删除节点练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/7.复制（克隆）节点.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08/8.动态生成表格.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图片/ali.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/1.创建元素的三种方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/10.阻止默认行为.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/11.阻止事件冒泡.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/12.事件委托.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/13.HTML防止别人分享案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/14.鼠标事件对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/15.鼠标事件对象之例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/16.委托事件练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/17.键盘事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/18.键盘事件练习.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/19.实现input框内容放大.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/2.innnerHTML拼接效率测试.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/3.inner数组效率测试.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/4.createElement效率测试.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/5.注册事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/6.删除事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/7.DOM事件流.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/8.事件对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09/9.事件对象——etarget.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/二狗.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图片/狗.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day05/绝对定位以带有定位元素的父级元素位移.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day05/绝对定位以带有定位元素的父级元素位移.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day07/子节点.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day07/子节点.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,19 +85,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day05JS" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\浮点Day04练习" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan\Day04" />
-      <recent name="D:\elme\web_q\Java9_web_qianduan" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\Day06JS" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\搜索趣图Day03练习" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice\images" />
       <recent name="D:\elme\web_q\Java9_web_qianduan\baiduPractice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\elme\web_q\Java9_web_qianduan\图片" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day05JS" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\浮点Day04练习" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan\Day04" />
+      <recent name="D:\elme\web_q\Java9_web_qianduan" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.浮动元素与父盒子的关系.html">
@@ -131,7 +144,7 @@
       <workItem from="1597622071880" duration="25407000" />
       <workItem from="1597708131337" duration="28362000" />
       <workItem from="1597796282365" duration="17275000" />
-      <workItem from="1597881315630" duration="825000" />
+      <workItem from="1597881315630" duration="18565000" />
     </task>
     <servers />
   </component>
@@ -190,9 +203,45 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597214412968" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597807380033">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597907177648">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597807380033" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597907177648" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Day09/5.注册事件.html</url>
+          <line>21</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Day09/13.HTML防止别人分享案例.html</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Day09/13.HTML防止别人分享案例.html</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Day09/17.键盘事件.html</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Day09/17.键盘事件.html</url>
+          <line>11</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
