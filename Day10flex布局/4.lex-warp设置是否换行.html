@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Title</title>
+    <style>
+        div{
+
+            display: flex; /*给父级添加flax属性*/
+            width: 800px;
+            height: 80%;
+            background-color: #ffc0cb;
+            flex-direction: row-reverse;
+            justify-content: space-around;
+            /*flex-wrap:wrap; 默认是不换行的，如果不够了会缩小子元素的宽度放到父元素里面*/
+            flex-wrap:nowrap;
+        }
+
+        div span{
+            width: 150px;
+            height: 60px;
+            background-color: yellowgreen;
+            color: white;
+
+
+        }
+
+    </style>
+</head>
+<body>
+<div>
+    <span>1</span>
+    <span>2</span>
+    <span>3</span>
+    <span>4</span>
+    <span>5</span>
+
+</div>
+</body>
+</html>

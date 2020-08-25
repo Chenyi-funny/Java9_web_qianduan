@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>手机号码：
+<input type="number"> <button>发送</button>
+<script>
+    var btn = document.querySelector('button')
+    var time =60
+    btn.onclick=function (){
+        if(btn.innerHTML == "发送"){
+            btn.disabled = true
+            var timer = setInterval(function (){
+                btn.innerHTML=time+'秒后可继续发送'
+                time--;
+                if(time == -1){
+                    btn.disabled = false;
+                    btn.innerHTML = '发送'
+                    time=60
+                    clearInterval(timer)
+                }
+            },1000)
+        }
+      }
+
+
+
+</script>
+</body>
+</html>
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Title</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--手机号码： <input type="number"> <button>发送</button>-->
+<!--<script>-->
+<!--    var btn =  document.querySelector('button')-->
+<!--    var time = 60;-->
+<!--    btn.addEventListener('click', function () {-->
+<!--        btn.disabled = true;-->
+<!--        var timer = setInterval(function () {-->
+<!--            if (time == 0){-->
+<!--                time = 60;-->
+<!--                // 清除定时器-->
+<!--                clearInterval(timer);-->
+<!--                btn.disabled = false;-->
+<!--                btn.innerHTML = '发送';-->
+
+
+<!--            }else {-->
+<!--                btn.innerHTML = '还剩下'+time+'秒';-->
+<!--                time&#45;&#45;;-->
+<!--            }-->
+<!--        }, 1000)-->
+<!--    })-->
+<!--</script>-->
+<!--</body>-->
+<!--</html>-->
