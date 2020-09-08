@@ -22,36 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day09/20.BOM对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/21.window对象的常见事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09/22.调整窗口大小事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/1.定时器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/10.随机点名.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/11.5分钟自动跳转页面.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/12.this指向问题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/2.5秒后关闭广告.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/3.清除定时器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/4.清除定时器setInterval().html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/5.倒计时效果.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/7.倒计时效果练习—七夕节.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/8.显示当前时间—电子表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10/9.发送验证码等待练习.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10es6/1.let声明变量.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10es6/2.经典面试题.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10es6/3.const常量.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10es6/4.箭头函数.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10flex布局/1.flex主轴放向.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10flex布局/2.flex设置主轴元素的排列方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10flex布局/3.flex设置主轴元素的排列方式2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10flex布局/4.lex-warp设置是否换行.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10flex布局/5.align-items设置侧轴子元素的排列方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10flex布局/5.align-items设置侧轴子元素的排列方式（多行）.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10flex布局/6.法兰西国旗.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day09/19.实现input框内容放大.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day09/19.实现input框内容放大.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day09/9.事件对象——etarget.html" beforeDir="false" afterPath="$PROJECT_DIR$/Day09/9.事件对象——etarget.html" afterDir="false" />
-    </list>
+    <list default="true" id="85824aae-ffbb-40c8-9f22-d3aa3228bad4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,6 +133,7 @@
       <workItem from="1598166636037" duration="677000" />
       <workItem from="1598229732570" duration="951000" />
       <workItem from="1598235434491" duration="49000" />
+      <workItem from="1598791940634" duration="445000" />
     </task>
     <servers />
   </component>
